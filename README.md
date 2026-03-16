@@ -18,5 +18,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
