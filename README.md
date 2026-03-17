@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -26,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 <!---LeetCode Topics End-->
