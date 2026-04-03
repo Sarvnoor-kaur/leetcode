@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Union-Find
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Enumeration
