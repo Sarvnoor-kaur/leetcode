@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0827-making-a-large-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0827-making-a-large-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0827-making-a-large-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0827-making-a-large-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -159,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0827-making-a-large-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Graph Theory
