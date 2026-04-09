@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2405-optimal-partition-of-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Heap (Priority Queue)
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2405-optimal-partition-of-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [2405-optimal-partition-of-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Union-Find
