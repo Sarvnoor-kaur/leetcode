@@ -7,7 +7,7 @@ public:
         int c=1;
         unordered_set<char>st;
         for(int i=0;i<s.size();i++){
-            while(st.find(s[i])!=st.end()){
+            if(st.find(s[i])!=st.end()){
                 c++;
                 // st.erase(s[l]);
                 st.clear();
