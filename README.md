@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -240,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 <!---LeetCode Topics End-->
