@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,4 +296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 <!---LeetCode Topics End-->
