@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3523-make-array-non-decreasing](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2405-optimal-partition-of-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3523-make-array-non-decreasing](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2751-robot-collisions/) | Hard |
+| [3523-make-array-non-decreasing](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,4 +293,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [3523-make-array-non-decreasing](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 <!---LeetCode Topics End-->
