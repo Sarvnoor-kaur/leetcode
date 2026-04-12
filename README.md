@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1544-make-the-string-great](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
