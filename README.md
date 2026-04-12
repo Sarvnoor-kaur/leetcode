@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0739-daily-temperatures](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0827-making-a-large-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1544-make-the-string-great](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
