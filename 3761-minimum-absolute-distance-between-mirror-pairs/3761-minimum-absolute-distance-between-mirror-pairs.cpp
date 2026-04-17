@@ -17,7 +17,7 @@ public:
                 mini = min(mini, i-mp[nums[i]]);
             }
 
-            mp[revers(nums[i])] = i;
+            mp[revers(nums[i])]=i;
         }
         return mini==INT_MAX?-1:mini;
 
