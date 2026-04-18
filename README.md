@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
