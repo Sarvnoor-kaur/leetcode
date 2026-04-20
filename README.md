@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -349,6 +351,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
