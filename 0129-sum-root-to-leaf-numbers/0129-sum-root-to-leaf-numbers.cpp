@@ -20,7 +20,7 @@ public:
         }
         solve(root->left,str,sum);
         solve(root->right,str,sum);
-        str.pop_back();
+        // str.pop_back();
     }
     int sumNumbers(TreeNode* root) {
         string str="";
