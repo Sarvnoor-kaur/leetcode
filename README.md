@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0554-brick-wall](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0554-brick-wall/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
