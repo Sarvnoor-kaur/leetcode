@@ -7,7 +7,7 @@ public:
         }
         return parent[in];
     }
-    void unite(int &rx,int& ry){
+    void unite(int rx,int ry){
         int pa=find(rx);
         int pb=find(ry);
         if(pa!=pb){
