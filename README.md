@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
