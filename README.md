@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0670-maximum-swap](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0506-relative-ranks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0071-simplify-path](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
