@@ -9,7 +9,7 @@ public:
             int di=nums[i]-nums[i-1];
             if(di==diff){
                 c++;
-                 maxi += (c - 1); 
+                maxi+=(c - 1); 
             }else{
                 diff=di;
                 c=1;
