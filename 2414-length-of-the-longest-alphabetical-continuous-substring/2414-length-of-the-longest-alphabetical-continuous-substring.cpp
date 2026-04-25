@@ -6,12 +6,13 @@ public:
         for(int i=1;i<s.size();i++){
             if(s[i]==s[i-1]+1){
                 c++;
+                maxi=max(maxi,c);
             }else{
-                maxi=max(c,maxi);
+                // maxi=max(c,maxi);
                 c=1;
             }
         }
-        maxi=max(maxi,c);
+        // maxi=max(maxi,c);
         return maxi;
         
     }
