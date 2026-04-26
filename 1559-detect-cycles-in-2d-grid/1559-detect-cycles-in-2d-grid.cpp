@@ -6,22 +6,22 @@ public:
         }
         if(visited[i][j])return true;
         visited[i][j]=true;
-        if(i-1!=pi && j!=pj){
+        if(!(i-1==pi && j==pj)){
             if(solve(i-1,j,i,j,grid,visited,st)){
                 return true;
             }
         }
-        if(i+1!=pi && j!=pj){
+        if(!(i+1==pi && j==pj)){
             if(solve(i+1,j,i,j,grid,visited,st)){
                 return true;
             }
         }
-         if(i!=pi && j-1!=pj){
+         if(!(i==pi && j-1==pj)){
             if(solve(i,j-1,i,j,grid,visited,st)){
                 return true;
             }
         }
-         if(i!=pi && j+1!=pj){
+         if(!(i==pi && j+1==pj)){
             if(solve(i,j+1,i,j,grid,visited,st)){
                 return true;
             }
