@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0670-maximum-swap](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
