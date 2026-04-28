@@ -33,18 +33,14 @@ public:
         }
         while(curr2){
             int sum=curr2->val+carry;
-            tail->next=new ListNode(sum%10);
+            tail->next= new ListNode(sum%10);
             tail=tail->next;
             curr2=curr2->next;
             carry=sum/10;
-            
         }
         if(carry){
             tail->next=new ListNode(carry);
         }
-       
-            
-        
         return head->next;
     }
 };
