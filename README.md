@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0670-maximum-swap](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0146-lru-cache](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -486,4 +488,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
