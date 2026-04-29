@@ -6,23 +6,27 @@ public:
         unordered_set<char>st;
         int maxi=0;
         for(int i=0;i<s.size();i++){
-            // if(st.find(s[i])==st.end()){
-            //     st.insert(s[i]);
-            //     int len=i-l+1;
-            //     maxi=max(maxi,len);
-            // }else{
-            //     while(st.find(s[i])!=st.end()){
-            //         st.erase(s[l]);
-            //         l++;
-            //     }
-            // }
-            while(st.find(s[i])!=st.end()){
-                st.erase(s[l]);
-                l++;
+            if(st.find(s[i])==st.end()){
+                st.insert(s[i]);
+                int len=i-l+1;
+                maxi=max(maxi,len);
+            }else{
+                while(st.find(s[i])!=st.end()){
+                    st.erase(s[l]);
+                    l++;
+                }
+                st.insert(s[i]);
+                int len=i-l+1;
+                maxi=max(maxi,len);
+
             }
-            st.insert(s[i]);
-            int len=i-l+1;
-            maxi=max(maxi,len);
+            // while(st.find(s[i])!=st.end()){
+            //     st.erase(s[l]);
+            //     l++;
+            // }
+            // st.insert(s[i]);
+            // int len=i-l+1;
+            // maxi=max(maxi,len);
 
         }
         return maxi;
