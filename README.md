@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0062-unique-paths](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -545,4 +547,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
