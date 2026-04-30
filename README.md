@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0125-valid-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0567-permutation-in-string/) | Medium |
