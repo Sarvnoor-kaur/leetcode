@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0788-rotated-digits](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0670-maximum-swap](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0670-maximum-swap/) | Medium |
+| [0788-rotated-digits](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
