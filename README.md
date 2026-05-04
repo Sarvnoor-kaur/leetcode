@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0015-3sum/) | Medium |
+| [0048-rotate-image](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0079-word-search/) | Medium |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0279-perfect-squares](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0396-rotate-function](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0396-rotate-function/) | Medium |
