@@ -12,14 +12,22 @@
 class Solution {
 public:
     int sumOfLeftLeaves(TreeNode* root) {
-        if(root==nullptr){
-            return 0;
-        }
         int sum=0;
-        if(root->left && root->left->right==nullptr && root->left->left==nullptr){
-            sum+=root->left->val;
+        queue<TreeNode*>q;
+        q.push(root);
+        while(!q.empty()){
+            TreeNode*temp=q.front();
+            q.pop();
+            if(temp->left){
+                if(!temp->left->left && !temp->left->right){
+                    sum+=temp->left->val;
+                }
+                q.push(temp->left);
+            }
+            if(temp->right){
+                q.push(temp->right);
+            }
         }
-        return sum+=sumOfLeftLeaves(root->left)+sumOfLeftLeaves(root->right);
-
+        return sum;
     }
 };
