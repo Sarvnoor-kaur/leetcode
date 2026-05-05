@@ -511,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
