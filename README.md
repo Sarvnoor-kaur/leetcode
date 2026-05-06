@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-univalued-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-univalued-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Backtracking
