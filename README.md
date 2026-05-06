@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2751-robot-collisions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3169-count-days-without-meetings/) | Medium |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -561,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
