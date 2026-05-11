@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
@@ -513,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -574,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
@@ -604,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
