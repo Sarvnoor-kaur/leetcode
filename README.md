@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0283-move-zeroes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -515,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
