@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0670-maximum-swap](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0396-rotate-function](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -539,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
