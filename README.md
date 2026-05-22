@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
