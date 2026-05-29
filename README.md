@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0217-contains-duplicate](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0217-contains-duplicate](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
