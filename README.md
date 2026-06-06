@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2574-left-and-right-sum-differences](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
