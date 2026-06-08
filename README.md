@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-interval-list-intersections](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
