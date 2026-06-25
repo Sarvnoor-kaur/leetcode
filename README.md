@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
