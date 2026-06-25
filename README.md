@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-make-the-string-great](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
