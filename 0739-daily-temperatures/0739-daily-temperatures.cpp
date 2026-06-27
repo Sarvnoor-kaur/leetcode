@@ -5,7 +5,19 @@ public:
         vector<int>ngei(n);
         stack<int>st;
         
+        // for(int i=n-1;i>=0;i--){
+        //     while(!st.empty() && temperatures[st.top()]<=temperatures[i]){
+        //         st.pop();
+        //     }
+        //     if(st.empty()){
+        //         ngei[i]=-1;
+        //     }else{
+        //         ngei[i]=st.top();
+        //     }
+        //     st.push(i);
+        // }
         for(int i=n-1;i>=0;i--){
+            
             while(!st.empty() && temperatures[st.top()]<=temperatures[i]){
                 st.pop();
             }
@@ -15,6 +27,7 @@ public:
                 ngei[i]=st.top();
             }
             st.push(i);
+
         }
         vector<int>ans;
         for(int i=0;i<n;i++){
