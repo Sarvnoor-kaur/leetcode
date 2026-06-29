@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-make-the-string-great](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
