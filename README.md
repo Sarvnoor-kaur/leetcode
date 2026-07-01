@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-valid-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
