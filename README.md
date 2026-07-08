@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3169-count-days-without-meetings/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
