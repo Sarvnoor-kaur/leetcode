@@ -28,7 +28,7 @@ public:
             }
         }
         head=dummy->next;
-        delete dummy;
+        // delete dummy;
         return head;
 
     }
