@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Shortest Path
@@ -748,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -781,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -859,4 +863,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
