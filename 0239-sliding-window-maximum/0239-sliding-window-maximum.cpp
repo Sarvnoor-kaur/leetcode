@@ -10,7 +10,7 @@ public:
                 dq.pop_front();
             }
             while(!dq.empty() && nums[dq.back()]<nums[i]){
-                dq.pop_front();
+                dq.pop_back();
             }
             dq.push_back(i);
             if(i>=k-1){
