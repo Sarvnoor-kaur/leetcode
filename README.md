@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -812,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0046-permutations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0113-path-sum-ii/) | Medium |
