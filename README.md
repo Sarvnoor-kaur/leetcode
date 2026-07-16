@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -819,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Geometry
