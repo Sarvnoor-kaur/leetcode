@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
