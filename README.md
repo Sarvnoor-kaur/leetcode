@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0620-not-boring-movies/) | Easy |
