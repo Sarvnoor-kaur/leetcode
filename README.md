@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2615-sum-of-distances](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2751-robot-collisions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -466,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2615-sum-of-distances](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -638,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -847,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -864,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
