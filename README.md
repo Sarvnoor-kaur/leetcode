@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Stack
@@ -744,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -857,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
