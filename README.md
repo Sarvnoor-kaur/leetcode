@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2615-sum-of-distances](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -853,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
