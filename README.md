@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
@@ -872,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Trie
