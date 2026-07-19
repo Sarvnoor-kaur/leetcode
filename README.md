@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
