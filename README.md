@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0202-happy-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0396-rotate-function](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
