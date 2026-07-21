@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0139-word-break/) | Medium |
 | [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0214-shortest-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -687,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -940,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -966,4 +969,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
