@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1544-make-the-string-great/) | Easy |
@@ -691,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -944,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -973,4 +976,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
