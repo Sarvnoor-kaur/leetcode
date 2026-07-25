@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0414-third-maximum-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0506-relative-ranks/) | Easy |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0525-contiguous-array/) | Medium |
