@@ -5,10 +5,11 @@ public:
         int depth=0;
         for(char c:s){
             if(c=='('){
-                if(depth>0){
+                depth++;
+                if(depth>1){
                     res+=c;
                 }
-                depth++;
+               
             }else{
                 depth--;
                 if(depth>0){
