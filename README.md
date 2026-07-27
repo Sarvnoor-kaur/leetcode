@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
