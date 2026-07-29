@@ -32,10 +32,10 @@ public:
             mp[root].push(s[i]);
         }
 
-        string ans=s;
+        string ans="";
         for(int i=0;i<n;i++){
             int root=find(i);
-            ans[i]=mp[root].top();
+            ans+=mp[root].top();
             mp[root].pop();
         }
         return ans;
