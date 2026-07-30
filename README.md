@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3169-count-days-without-meetings/) | Medium |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3169-count-days-without-meetings/) | Medium |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
