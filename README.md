@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0912-sort-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0788-rotated-digits](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0877-stone-game](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -691,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0670-maximum-swap](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0788-rotated-digits](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -1029,4 +1032,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
