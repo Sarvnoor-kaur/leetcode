@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0202-happy-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -820,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
