@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [1446-consecutive-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
