@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0463-island-perimeter](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0506-relative-ranks/) | Easy |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0463-island-perimeter](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0827-making-a-large-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -621,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
+| [0463-island-perimeter](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -668,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0463-island-perimeter](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
