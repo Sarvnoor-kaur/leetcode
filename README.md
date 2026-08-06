@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-interval-list-intersections](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -784,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -821,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
