@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0554-brick-wall/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0648-replace-words](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0648-replace-words/) | Medium |
+| [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0827-making-a-large-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -621,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
@@ -662,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
