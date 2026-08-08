@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0070-climbing-stairs](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0279-perfect-squares/) | Medium |
@@ -1070,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0139-word-break/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
