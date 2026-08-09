@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0648-replace-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0704-binary-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -811,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0704-binary-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
