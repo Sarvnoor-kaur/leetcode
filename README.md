@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0139-word-break/) | Medium |
 | [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0279-perfect-squares/) | Medium |
@@ -985,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
