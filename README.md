@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0648-replace-words](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0648-replace-words/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0788-rotated-digits](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0788-rotated-digits/) | Medium |
