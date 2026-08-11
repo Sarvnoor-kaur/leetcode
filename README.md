@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3169-count-days-without-meetings/) | Medium |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3169-count-days-without-meetings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3169-count-days-without-meetings/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
