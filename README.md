@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1729-find-followers-count](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1907-count-salary-categories](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1907-count-salary-categories/) | Medium |
+| [1965-employees-with-missing-information](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1965-employees-with-missing-information/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
