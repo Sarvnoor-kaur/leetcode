@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
