@@ -8,9 +8,7 @@ public:
                 mp.push_back({res,{arr[i],arr[j]}});
             }
         }
-        sort(mp.begin(),mp.end(),[](auto& a,auto &b){
-            return a.first<b.first;
-        });
+        sort(mp.begin(),mp.end());
         return {mp[k-1].second.first,mp[k-1].second.second};
     }
 };
