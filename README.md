@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0704-binary-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0721-accounts-merge](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -854,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
