@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0135-candy](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0135-candy](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0455-assign-cookies/) | Easy |
