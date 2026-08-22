@@ -816,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
