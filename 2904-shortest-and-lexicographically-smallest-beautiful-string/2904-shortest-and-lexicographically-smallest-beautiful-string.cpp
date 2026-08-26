@@ -23,11 +23,11 @@ public:
                     mini=min(mini,len);
                     t=l;
                 }else if (len == mini) {
-                    string curr = s.substr(l, len);
+                    string curr = s.substr(l, mini);
                     string prev = s.substr(t, mini);
 
-                    if (curr < prev) {
-                        t = l;
+                    if (curr<prev) {
+                        t=l;
                     }
                 }
             }
