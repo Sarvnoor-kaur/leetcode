@@ -43,7 +43,7 @@ public:
             pq[root].push(nums[i]);
         }
         for(auto &[r,in]:gr){
-            sort(in.begin(),in.end());
+            // sort(in.begin(),in.end());
             for(int i:in){
                 nums[i]=pq[r].top();
                 pq[r].pop();
