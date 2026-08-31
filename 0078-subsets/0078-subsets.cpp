@@ -7,7 +7,9 @@ public:
         }
         // exclude
         backtrack(in+1,nums,an,temp);
+        // exclude
         temp.push_back(nums[in]);
+
         backtrack(in+1,nums,an,temp);
         temp.pop_back();
     }
