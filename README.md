@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [0986-interval-list-intersections](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -619,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -938,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1310-xor-queries-of-a-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
