@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -863,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+| [0459-repeated-substring-pattern](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
@@ -1196,4 +1198,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0279-perfect-squares/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
