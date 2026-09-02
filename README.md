@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3788-maximum-score-of-a-split/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -832,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
