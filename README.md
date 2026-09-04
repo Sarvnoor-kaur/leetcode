@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3788-maximum-score-of-a-split/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3788-maximum-score-of-a-split](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3788-maximum-score-of-a-split/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
