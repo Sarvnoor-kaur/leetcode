@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0396-rotate-function](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0506-relative-ranks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0743-network-delay-time](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0414-third-maximum-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0306-additive-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0306-additive-number/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0344-reverse-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -708,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0437-path-sum-iii/) | Medium |
@@ -789,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -1224,4 +1230,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
