@@ -1,8 +1,9 @@
 # Write your MySQL query statement below
 -- select name as Employee from employee e where salary >(select salary from employee where id = e.managerId);
 
-select e.name as Employee from Employee e left join Employee m on e.managerId=m.id where e.salary>m.salary;
+-- select e.name as Employee from Employee e left join Employee m on e.managerId=m.id where e.salary>m.salary;
 -- select e.name as Employee from Employee e join Employee m on e.managerId=m.id where e.salary>m.salary;
+select e.name as Employee from Employee e left join Employee m on e.managerId=m.id where e.salary>m.salary;
 
 -- Question 8: Employee Earns Less Than Manager
 -- Solution
@@ -28,3 +29,6 @@ select e.name as Employee from Employee e left join Employee m on e.managerId=m.
 -- FROM Employee e1
 -- JOIN Employee e2
 -- ON e1.managerId=e2.id;
+
+
+
