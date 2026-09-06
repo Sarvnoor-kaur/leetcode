@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0607-sales-person](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0620-not-boring-movies/) | Easy |
