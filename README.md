@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1148-article-views-i/) | Easy |
