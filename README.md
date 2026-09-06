@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1075-project-employees-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1407-top-travellers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
