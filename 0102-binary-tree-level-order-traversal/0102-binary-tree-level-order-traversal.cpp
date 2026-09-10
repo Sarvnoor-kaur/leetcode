@@ -15,27 +15,25 @@ public:
         if(root==nullptr){
             return {};
         }
+        vector<vector<int>>an;
         queue<TreeNode*>q;
         q.push(root);
-        vector<vector<int>>re;
-       
         while(!q.empty()){
-            int a=q.size();
+            int n=q.size();
             vector<int>curr;
-            for(int i=0;i<a;i++){
-                TreeNode* va=q.front();
-                curr.push_back(va->val);
+            for(int i=0;i<n;i++){
+                TreeNode* v=q.front();
                 q.pop();
-                if(va->left){
-                    q.push(va->left);
+                curr.push_back(v->val);
+                if(v->left){
+                    q.push(v->left);
                 }
-                if(va->right){
-                    q.push(va->right);
+                if(v->right){
+                    q.push(v->right);
                 }
-
             }
-            re.push_back(curr);
+            an.push_back(curr);
         }
-        return re;
+        return an;
     }
 };
