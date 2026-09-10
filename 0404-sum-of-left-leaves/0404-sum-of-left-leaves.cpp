@@ -11,23 +11,33 @@
  */
 class Solution {
 public:
+    bool leaf(TreeNode*root){
+        if(root->left==nullptr && root->right==nullptr && root!=nullptr){
+            return true;
+        }
+        return false;
+    }
     int sumOfLeftLeaves(TreeNode* root) {
-        int sum=0;
+        int um=0;
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
-            TreeNode*temp=q.front();
-            q.pop();
-            if(temp->left){
-                if(!temp->left->left && !temp->left->right){
-                    sum+=temp->left->val;
+            int n=q.size();
+            
+                TreeNode*v=q.front();
+                q.pop();
+                if (v->left != nullptr && leaf(v->left)) {
+                    um += v->left->val;
                 }
-                q.push(temp->left);
-            }
-            if(temp->right){
-                q.push(temp->right);
-            }
+                if(v->left){
+                    q.push(v->left);
+                }
+                if(v->right){
+                    q.push(v->right);
+                }
+            
+
         }
-        return sum;
+        return um;
     }
 };
