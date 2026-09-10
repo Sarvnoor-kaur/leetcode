@@ -17,14 +17,14 @@ public:
         }
         queue<TreeNode*>q;
         q.push(root);
-        vector<int>ri;
+        vector<int>an;
         while(!q.empty()){
             int n=q.size();
             for(int i=0;i<n;i++){
-                TreeNode* v=q.front();
+                TreeNode*v=q.front();
                 q.pop();
                 if(i==n-1){
-                    ri.push_back(v->val);
+                    an.push_back(v->val);
                 }
                 if(v->left){
                     q.push(v->left);
@@ -33,8 +33,7 @@ public:
                     q.push(v->right);
                 }
             }
-
         }
-        return ri;
+        return an;
     }
 };
