@@ -11,21 +11,23 @@
  */
 class Solution {
 public:
-    void solve(TreeNode*root,string str,int &sum){
-        if(!root)return;
+    void path(TreeNode* root,int &sum,string str){
+        if(!root){
+            return ;
+        }
         str+=to_string(root->val);
         if(root->left==nullptr && root->right==nullptr){
             sum+=stoi(str);
-            return ;
+            return;
         }
-        solve(root->left,str,sum);
-        solve(root->right,str,sum);
-        // str.pop_back();
+        
+        path(root->left,sum,str);
+        path(root->right,sum,str);
     }
     int sumNumbers(TreeNode* root) {
-        string str="";
         int sum=0;
-        solve(root,str,sum);
+        string str="";
+        path(root,sum,str);
         return sum;
     }
 };
