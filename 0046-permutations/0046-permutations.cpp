@@ -1,25 +1,27 @@
 class Solution {
 public:
-    void permute(vector<int>&nums,vector<int>&temp,vector<bool>&visited,vector<vector<int>>&ans){
+    void pem(vector<int>nums,vector<int>&temp,vector<bool>&vi,vector<vector<int>>&an){
         if(temp.size()==nums.size()){
-            ans.push_back(temp);
-            return;
+            an.push_back(temp);
+            return ;
         }
+
         for(int i=0;i<nums.size();i++){
-            if(!visited[i]){
-                visited[i]=true;
+            if(!vi[i]){
+                vi[i]=true;
                 temp.push_back(nums[i]);
-                permute(nums,temp,visited,ans);
+                pem(nums,temp,vi,an);
+                vi[i]=false;
                 temp.pop_back();
-                visited[i]=false;
             }
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<bool>visited(nums.size(),false);
+        int n=nums.size();
         vector<int>temp;
-        vector<vector<int>>ans;
-        permute(nums,temp,visited,ans);
-        return ans;
+        vector<vector<int>>an;
+        vector<bool>vi(n,false);
+        pem(nums,temp,vi,an);
+        return an;
     }
 };
