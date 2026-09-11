@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0068-text-justification](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0068-text-justification/) | Hard |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0055-jump-game/) | Medium |
@@ -1112,6 +1114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0051-n-queens/) | Hard |
@@ -1267,6 +1270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Longest Increasing Subsequence
