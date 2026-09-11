@@ -1259,6 +1259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
