@@ -850,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0043-multiply-strings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0060-permutation-sequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -1144,6 +1145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0060-permutation-sequence](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0486-predict-the-winner](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Combinatorics
