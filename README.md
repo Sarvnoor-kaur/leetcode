@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
