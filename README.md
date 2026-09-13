@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1075-project-employees-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
