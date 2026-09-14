@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0554-brick-wall](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0554-brick-wall/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0648-replace-words](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0648-replace-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0554-brick-wall](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0554-brick-wall/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0648-replace-words](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0648-replace-words/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
