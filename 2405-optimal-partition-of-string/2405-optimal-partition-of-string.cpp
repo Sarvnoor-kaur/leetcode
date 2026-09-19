@@ -1,20 +1,17 @@
 class Solution {
 public:
-    int partitionString(string s) {
-
-        int l=0;
-        // int maxlen=0;
+    int partitionString(string t) {
         int c=1;
-        unordered_set<char>st;
-        for(int i=0;i<s.size();i++){
-            if(st.find(s[i])!=st.end()){
+        unordered_map<char,int>mp;
+        for(int i=0;i<t.size();i++){
+            mp[t[i]]++;
+            if(mp[t[i]]>1){
                 c++;
-                // st.erase(s[l]);
-                st.clear();
+                mp.clear();
+                mp[t[i]]++;
+                
             }
-            st.insert(s[i]);
         }
         return c;
-        
     }
 };
