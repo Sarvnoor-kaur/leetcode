@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-recyclable-and-low-fat-products](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
+| [1890-the-latest-login-in-2020](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1907-count-salary-categories](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1907-count-salary-categories/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
