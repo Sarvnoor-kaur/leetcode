@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-two-city-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
