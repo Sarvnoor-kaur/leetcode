@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1029-two-city-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-couples-holding-hands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1029-two-city-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1029-two-city-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -1323,4 +1326,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+## Hungarian Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 <!---LeetCode Topics End-->
