@@ -1,14 +1,33 @@
+// class Solution {
+//     public String reverseWords(String s) {
+//         String res="";
+//         String []words=s.trim().split("\\s+");
+//         for(int i=words.length-1;i>=0;i--){
+//             res+=words[i];
+//             if(i!=0){
+//                 res+=" ";
+//             }
+            
+//         }
+//         return res;
+//     }
+// }
+
+
 class Solution {
     public String reverseWords(String s) {
-        String res="";
-        String []words=s.trim().split("\\s+");
-        for(int i=words.length-1;i>=0;i--){
-            res+=words[i];
-            if(i!=0){
-                res+=" ";
+        String[] words = s.trim().split("\\s+");
+
+        StringBuilder ans = new StringBuilder();
+
+        for (int i = words.length - 1; i >= 0; i--) {
+            ans.append(words[i]);
+
+            if (i != 0) {
+                ans.append(" ");
             }
-            
         }
-        return res;
+
+        return ans.toString();
     }
 }
