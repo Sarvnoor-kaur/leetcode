@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0396-rotate-function](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0506-relative-ranks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0743-network-delay-time](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -391,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0827-making-a-large-island](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0827-making-a-large-island/) | Hard |
@@ -973,6 +977,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
