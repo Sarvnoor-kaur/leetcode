@@ -500,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-smallest-string-starting-from-leaf](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -542,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
