@@ -6,6 +6,7 @@ public:
             if(tr[l]!=tr[e]){
                 return false;
             }
+            
             l++;
             e--;
         }
