@@ -17,9 +17,8 @@ public:
             return true;
         }
         
-        int left=hasPathSum(root->left,targetSum-root->val);
-        int right=hasPathSum(root->right,targetSum-root->val);
-        return left||right;
+        
+        return hasPathSum(root->left,targetSum-root->val) || hasPathSum(root->right,targetSum-root->val );
         
     }
 };
