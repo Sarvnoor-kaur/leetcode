@@ -15,9 +15,10 @@ public:
         if(root==nullptr){
             return nullptr;
         }
-        swap(root->left,root->right);
+        
         invertTree(root->left);
         invertTree(root->right);
+        swap(root->left,root->right);
         // root->left=right;
         // root->right=left;
         return root;
