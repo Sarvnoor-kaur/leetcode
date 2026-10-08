@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1544-make-the-string-great](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -667,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -1101,6 +1105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sarvnoor-kaur/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/Sarvnoor-kaur/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/Sarvnoor-kaur/leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Counting
