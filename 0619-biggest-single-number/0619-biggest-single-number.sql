@@ -8,3 +8,12 @@ SELECT (
     ORDER BY num DESC
     LIMIT 1
 ) AS num;
+
+
+-- Outer SELECT
+--      ↓
+-- "What is the value returned by this inner query?"
+--      ↓
+-- Inner query → no value
+--      ↓
+-- SQL represents no value as NULL
