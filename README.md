@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1075-project-employees-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Sarvnoor-kaur/leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
